@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RQ97hRkJUJ2HLNXioApqW+bVn9N7257Honv17iOwVHaUVg1I8NyCIBLRM9vl0slXTqwY7Q2KKgkR0tQbGmCA3w==",
+  "dgSpecHash": "nzV5wUWbZlIDzJGII6WgF1PAuFfRDSrP//QChmT00wOLhfOacPpohnwPJOv0vsz/zRoP5kW2JmUNm16pc8E6JA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\.NET CORE\\server\\server\\API.csproj",
+  "projectFilePath": "C:\\Users\\user1\\source\\repos\\server_yad_vashem\\server\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

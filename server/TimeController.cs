@@ -1,6 +1,5 @@
 ﻿using API.BLL_Service;
 using API.DAL_Repository.Model;
-using BLL.Interface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;

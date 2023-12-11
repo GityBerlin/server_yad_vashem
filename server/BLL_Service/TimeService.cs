@@ -1,6 +1,5 @@
 ﻿using API.DAL_Repository;
 using API.DAL_Repository.Model;
-using DAL.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;

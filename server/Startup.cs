@@ -1,7 +1,3 @@
-using BLL.Interface;
-using BLL.Services;
-using DAL;
-using DAL.Interface;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;

@@ -467,11 +467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Desktop\\.NET CORE\\server\\server\\API.csproj",
+      "projectUniqueName": "C:\\Users\\user1\\source\\repos\\server_yad_vashem\\server\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\user1\\Desktop\\.NET CORE\\server\\server\\API.csproj",
+      "projectPath": "C:\\Users\\user1\\source\\repos\\server_yad_vashem\\server\\API.csproj",
       "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Desktop\\.NET CORE\\server\\server\\obj\\",
+      "outputPath": "C:\\Users\\user1\\source\\repos\\server_yad_vashem\\server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
